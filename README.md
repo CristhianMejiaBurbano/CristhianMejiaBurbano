@@ -11,7 +11,7 @@ Soy una persona analítica, proactiva y orientada a la mejora continua. Disfruto
 
 ## 🧪 Habilidades QA
 - Diseño y ejecución de casos de prueba
-- Pruebas funcionales
+- Pruebas funcionales.
 - Clases de equivalencia y valores límite
 - API Testing
 - Análisis de requisitos
